@@ -11,6 +11,11 @@ const PluginDir = "@ICINGA2_PLUGINDIR@"
  */
 const ManubulonPluginDir = "@ICINGA2_PLUGINDIR@"
 
+/* The directory which contains the VMware plugin.
+ * Check the documentation, chapter "VMware Plugin Check Commands", for details.
+ */
+const VmwareEsxPluginDir = "@ICINGA2_PLUGINDIR@"
+
 /* The directory which you use to store additional plugins which ITL provides user contributed command definitions for.
  * Check the documentation, chapter "Plugins Contribution", for details.
  */
